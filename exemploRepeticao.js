@@ -3,7 +3,7 @@
 //     prompt("Digite o nome de um aluno: ")
 // }
 
-let opcao = prompt("Digite uma opção\nDigite 0 para sair:")
+let opcao = prompt("EXERCICIO DE REPETICAO\nDigite uma opção\nDigite 0 para sair:")
 
 while (opcao != "0") {
     console.log("Repetiuuuuuu");
